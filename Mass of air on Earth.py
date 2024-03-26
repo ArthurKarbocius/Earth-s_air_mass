@@ -8,7 +8,7 @@ N = h
 # Volume and density calculation increment, [m]:
 delta = h / N
 # Earth's radius, [m]
-Reth = 3178000
+Reth = 6371000
 # Average tempareture on Earth, [K]:
 T = 293 
 # Universal gas constant, [J/(kg*K)]:
